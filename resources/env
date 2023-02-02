@@ -1,0 +1,6 @@
+
+DATASOURCE_URL= jdbc:mysql://localhost:3306/myspringdb?useSSL=false
+DATASOURCE_USERNAME= andrea
+DATASOURCE_PASSWORD= andrea
+HIBERNATE_DIALECT= org.hibernate.dialect.MySQL5InnoDBDialect
+HIBERNATE_DDL_AUTO= update
